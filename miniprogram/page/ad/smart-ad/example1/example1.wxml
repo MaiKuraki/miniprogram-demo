@@ -9,9 +9,9 @@
       </view>
       <view class="card-content">
         <view class="card-tags">
-          <view class="tag tag-primary">个性插入</view>
-          <view class="tag tag-success">无需开发</view>
-          <view class="tag tag-warning">实时生效</view>
+          <view class="tag tag-primary">智能分析</view>
+          <view class="tag tag-success">实时预览</view>
+          <view class="tag tag-warning">0代码</view>
         </view>
 
         <!-- 功能特点 -->
@@ -19,16 +19,13 @@
           <view class="section-title">核心功能</view>
           <view class="feature-list">
             <view class="feature-item">
-              <view class="feature-text">免开发一键接入</view>
+              <view class="feature-text">智能插入推荐</view>
             </view>
             <view class="feature-item">
-              <view class="feature-text">最大化广告收益</view>
+              <view class="feature-text">实时预览编辑</view>
             </view>
             <view class="feature-item">
-              <view class="feature-text">基于大模型智能选择最优位置</view>
-            </view>
-            <view class="feature-item">
-              <view class="feature-text">多维度数据报表，全面掌握投放情况</view>
+              <view class="feature-text">免开发上线</view>
             </view>
           </view>
         </view>
@@ -39,33 +36,19 @@
           <view class="guide-steps">
             <view class="guide-step">
               <view class="guide-num">1</view>
-              <view class="guide-text">打开 MP 管理页面，点击「推广与搜索」，点击流量主</view>
+              <view class="guide-text">登录【微信公众平台 -> 流量主 -> 广告管理 -> 广告位管理】</view>
             </view>
             <view class="guide-line"></view>
             <view class="guide-step">
               <view class="guide-num">2</view>
-              <view class="guide-text">选择智能广告</view>
+              <view class="guide-text">选择【智能接入】模式</view>
             </view>
             <view class="guide-line"></view>
             <view class="guide-step">
               <view class="guide-num">3</view>
-              <view class="guide-text">开始变现</view>
+              <view class="guide-text">【创建智能广告】</view>
             </view>
           </view>
-        </view>
-      </view>
-      <view class="card-footer">
-        <view class="card-stat">
-          <view class="stat-value">98%</view>
-          <view class="stat-label">匹配准确率</view>
-        </view>
-        <view class="card-stat">
-          <view class="stat-value">2.5x</view>
-          <view class="stat-label">转化提升</view>
-        </view>
-        <view class="card-stat">
-          <view class="stat-value">50ms</view>
-          <view class="stat-label">响应速度</view>
         </view>
       </view>
     </view>

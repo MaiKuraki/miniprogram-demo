@@ -63,15 +63,19 @@ Page({
       })
       return
     }
+    if (type === 'optimize') {
+      wx.navigateTo({
+        url: '/page/ad/optimize-ad/optimize-ad'
+      })
+      return
+    }
     const typeMap = {
-      optimize: '广告调优',
       hosting: '广告托管',
       custom: '自主开发'
     }
     wx.showToast({
-      title: `点击了${typeMap[type]}`,
+      title: '稍后上线',
       icon: 'none'
     })
   }
 })
-
